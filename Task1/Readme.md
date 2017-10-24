@@ -8,15 +8,15 @@
 
 [I.Network là gì ?](#1)
 
-[II.Network là gì ?](#2)
+[II.Đặc điểm của một mạng máy tính?](#2)
 
-[III.Network là gì ?](#3)
+[III.Đặc điểm của các kiểu topology network?](#3)
 
-[IV.Network là gì ?](#4)
+[IV.TCP/IP](#4)
 
-[V.Network là gì ?](#5)
+[V.Giống và khác của TCP/IP và OSI?](#5)
 
-[VI.Network là gì ?](#6)
+[VI.Câu hỏi](#6)
 
 # Nội dung
 
