@@ -73,14 +73,13 @@
 <a name="5"></a>
 # 5.Một số giao thức và port của một số ứng dụng tiêu biểu
 
-Tên giao thức		| Giao thức | port   |
-------------------------------------------
-HTTP				| TCP		| 80	 |
-HTTPS				| TCP		| 443	 |
-DNS					| TCP\UDP   | 53	 |
-SSH					| TCP       | 22	 |
-Telnet				| TCP		| 23	 |
-FTP-data transfer	| TCP		| 20	 |
-FTP-control			| TCP		| 21	 |
-SMTP				| TCP		| 25     |
-------------------------------------------	
+|Tên giao thức		| Giao thức | port   |
+|-------------------|-----------|--------|
+|HTTP				| TCP		| 80	 |
+|HTTPS				| TCP		| 443	 |
+|DNS				| TCP\UDP   | 53	 |
+|SSH				| TCP       | 22	 |
+|Telnet				| TCP		| 23	 |
+|FTP-data transfer	| TCP		| 20	 |
+|FTP-control		| TCP		| 21	 |
+|SMTP				| TCP		| 25     |
