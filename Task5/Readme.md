@@ -71,7 +71,7 @@ link
 
 ## Cấu hình trong line-console
 
-![text](https://imgur.com/k7pKH3g)
+![text](https://i.imgur.com/k7pKH3g.png)
 
 - Thiết lập thời gian cho một phiên hoạt động.
 
