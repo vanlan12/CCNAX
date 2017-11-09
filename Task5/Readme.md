@@ -70,6 +70,7 @@ link
 ![text](https://i.imgur.com/KfLUxSr.png)
 
 ## Cấu hình trong line-console
+
 ![text](https://imgur.com/k7pKH3g)
 
 - Thiết lập thời gian cho một phiên hoạt động.
